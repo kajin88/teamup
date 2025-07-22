@@ -12,7 +12,9 @@ A Django web application that helps you create balanced teams for sports and gro
 
 ## Screenshots
 
-![TeamUp Home Page](static/logo.png)
+![TeamUp Home Page](static/android-chrome-192x192.png)
+![TeamUp Home Page](static/screenshot1.png)
+![TeamUp Home Page](static/screenshot2.png)
 
 ## Getting Started
 
